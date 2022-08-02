@@ -1,0 +1,4 @@
+# Project exclude paths
+/SpringBoot-Dubbo/springboot-dubbo-consumer/target/
+/SpringBoot-Dubbo/springboot-dubbo-interface/target/
+/SpringBoot-Dubbo/springboot-dubbo-provider/target/
